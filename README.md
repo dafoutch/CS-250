@@ -1,10 +1,12 @@
 # CS-250
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-
+User stories are used to interpret user demands and translate them into a functional program. They are brief summaries of features from the viewpoint of the user, and they follow the format "As a [user], I want [action] so that [benefit]." Determine the various user roles and their unique requirements first. Then, develop user stories that capture their objectives and needs. Set acceptance standards for each narrative that specify the precise requirements for completion. Set the user stories in order of relevance, and if necessary, break up the larger ones. Testers should be included when you implement the features to check that they are in line with user expectations. Continually collect stakeholder feedback to iteratively improve the development process. This strategy encourages user-centered software development and produces better project results.
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-
+Before writing any code, I would make sure to have a firm grasp of the project's goals, audience, and scope. Work closely with stakeholders to establish precise objectives and specifications. The development process should be divided into manageable phases or iterations, with each one concentrating on completing a functional portion of the project. Sort tasks according to priority and possible impact. Maintain open channels of communication and a flexible outlook to adjust to shifting requirements during development. Spot problems as they emerge and fix them, test frequently and early. Engage stakeholders frequently for feedback to make sure that you are meeting their expectations, and use the lessons you learn from each iteration of a project to improve the next one.
 
 What does it mean to be a good team member in software development?
+
+In software development, being a good team member entails being able to communicate clearly, work cooperatively with others and embrace adaptability. You must try to solve problems proactively while managing your time effectively. Quality over quantity, continuous learning and showing respect and empathy goes a long way. Learn how to give and receive constructive feedback, demonstrate leadership skills, and keep clear documentation. A successful team member not only possesses the necessary technical capabilities but also positively impacts the team, fosters collaboration, and ensures the project's overall success.
